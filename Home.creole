@@ -1,0 +1,85 @@
+**TOKEN ECONOMY: Come Internet è stato reinventato dal Web3t**
+
+* Translated from "Token Economy: How the Web3 reinvents the Internet" (Second edition, first amended printing, Nov 2020). The first edition was published by BlockchainHub Berlin https://blockchainhub.net in June 2019 under the title “Token Economy: How Blockchain & Smart contracts revolutionize the Economy” and had two amended editions.
+
+* Licence: Creative Commons CC-BY-NC-SA | https://creativecommons.org/licenses/by-nc-sa/4.0/. This license allows reusers to distribute, remix, adapt, and build upon the material in any medium or format for **noncommercial purposes only**, and only so long as attribution is given to the creator. If you remix, adapt, or build upon the material, **you must license the modified material under identical terms**. For **commercial permissions contact:** hello@token.kitchen
+
+----
+**Sommario**
+
+*[[Sigla editoriale]]
+
+*[[L’autrice]]
+
+*[[About the Translator]]
+
+*[[Il libro]]
+
+*[[Come leggere questo libro]]
+
+*[[Introduzione]]
+
+
+**[[Parte 1: Le basi del Web3]]**
+
+*[[Reti tokenizzate: Web3, il web stateful]]
+
+*[[Tenere traccia dei token: Bitcoin, Blockchain e altri registri distributi]]
+
+*[[Sicurezza dei token: Crittografia]]
+
+*[[Chi controlla i token? Sistemi di identità user-centrici]]
+
+
+**[[Parte 2: Applicazioni  Web3]]
+
+*[[Smart Contract]]
+
+*[[Economia istituzionale delle reti Web3 e altre forme di DAO]]
+
+*[[Governance delle reti Web3 Networks & altre DAO]]
+
+*[[Tokens]]
+
+
+**[[Parte 3: Economia dei Token & Finanza Decentralizzata]]
+
+*[[Il Futuro della Moneta & la Finanza Decentralizzata]]
+
+*[[I Token Stabili]]
+
+*[[I Privacy Token]]
+
+*[[Il trading di token, swap atomici e exchange decentralizzati]]
+
+*[[Token per il prestito - Sistemi di credito decentralizzati]]
+
+*[[Vendita di Token: ICO, ITO, IEO, STO]]
+
+
+**[[Parte 4: Casi d’uso dei token]]
+
+*[[Asset Token & Proprietà Frazionata]]
+
+*[[Purpose-Driven Tokens]]
+
+*[[Steemit, Hive & Reddit: Tokenizzazione delle Social Networks]]
+
+*[[Basic Attention Token: Advertising Reinvented]]
+
+*[[Token Curated Registries - The New Search?]]
+
+*[[How to Design a Token System]]
+
+**[[Appendici]]
+
+*[[Origins of Bitcoin & the Web3]]
+
+*[[Scalability Solutions]]
+
+*[[Libra & Celo]]
+
+
+[[Outlook]]
+
+[[Tables & Figures]]
