@@ -135,13 +135,13 @@ Per coprire tutti gli aspetti menzionati sopra occorre un team multidisciplinare
 ### Notes
 
 [^1]:
-[http://tokenengineering.wikidot.com/](http://tokenengineering.wikidot.com/)
+Token Engineering:[http://tokenengineering.wikidot.com/](http://tokenengineering.wikidot.com/)
 
 [^2]:
-[https://en.wikipedia.org/w/index.php?title=Design&oldid=943088539](https://en.wikipedia.org/w/index.php?title=Design&oldid=943088539)
+Design: [https://en.wikipedia.org/w/index.php?title=Design&oldid=943088539](https://en.wikipedia.org/w/index.php?title=Design&oldid=943088539)
 
 [^3]:
-[https://en.wikipedia.org/w/index.php?title=Engineering&oldid=943637749](https://en.wikipedia.org/w/index.php?title=Engineering&oldid=943637749)
+Engineering: [https://en.wikipedia.org/w/index.php?title=Engineering&oldid=943637749](https://en.wikipedia.org/w/index.php?title=Engineering&oldid=943637749)
 
 [^4]:
 "La teoria dei sistemi complessi studia le relazioni tra le parti del sistema, i comportamenti collettivi e l'ambiente del sistema stesso. I sistemi complessi differiscono dagli altri in quanto il loro comportamento non può essere facilmente dedotto dai cambiamenti di stato indotti dagli attori della rete. Proprietà come l'emergenza, la non linearità, l'adattamento, l'ordine spontaneo e i cicli di feedback sono tipici dei sistemi complessi. Gli approcci di modellazione che ignorano tali difficoltà produrranno modelli che non sono utili per modellare e guidare quei sistemi". Voshmgir, S.; Zargham, M.: "Foundations of Cryptoeconomic Systems" (si vedano i riferimenti)
