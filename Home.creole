@@ -79,7 +79,7 @@
 
 *[[Scalability Solutions]]
 
-*[[Libra & Celo]]
+*[[Libra (Diem) & Celo]]
 
 
 [[Outlook]]
