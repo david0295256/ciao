@@ -139,11 +139,11 @@ Il wallet agisce come un contenitore personale che ti permette di controllare le
 
 _* Allan, Christoper: “The Path to Self-Sovereign Identity,” March 1 2017, [https://github.com/ChristopherA/self-sovereign-identity/blob/master/ThePathToSelf-SovereignIdentity.md](https://github.com/ChristopherA/self-sovereign-identity/blob/master/ThePathToSelf-SovereignIdentity.md)_
 
-_* Ellison,[ ](http://irl.cs.ucla.edu/index.html)Carl: “Establishing Identity without Certification Authority,” 1996, [https://irl.cs.ucla.edu/index.html](https://irl.cs.ucla.edu/index.html) _
+_* Ellison,[ ](http://irl.cs.ucla.edu/index.html)Carl: “Establishing Identity without Certification Authority,” 1996, [https://irl.cs.ucla.edu/index.html](https://irl.cs.ucla.edu/index.html)_
 
 _* Feisthammel, Patrick: “[Pretty good Privacy, PGP](https://www.rubin.ch/pgp/weboftrust.en.html), Web of Trust,” Oct 7 2004, [https://www.rubin.ch/pgp/weboftrust.en.html](https://www.rubin.ch/pgp/weboftrust.en.html)_
 
-_* Jordan, Ken; Hauser, Jan; Foster, Steven: “The Augmented Social Network,” White paper, 2000, [https://firstmonday.org/ojs/index.php/fm/article/view/1068/988](https://firstmonday.org/ojs/index.php/fm/article/view/1068/988) _
+_* Jordan, Ken; Hauser, Jan; Foster, Steven: “The Augmented Social Network,” White paper, 2000, [https://firstmonday.org/ojs/index.php/fm/article/view/1068/988](https://firstmonday.org/ojs/index.php/fm/article/view/1068/988)_
 
 _* Kameron, Kim: “The Laws of Identity,” March 2007, [https://docs.microsoft.com/en-us/previous-versions/dotnet/articles/ms996456(v=msdn.10)?redirectedfrom=MSDN](https://docs.microsoft.com/en-us/previous-versions/dotnet/articles/ms996456(v=msdn.10)?redirectedfrom=MSDN)_
 
