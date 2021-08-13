@@ -19,7 +19,7 @@ Mentre i primi tentativi di criptare le comunicazioni elettroniche si sono conce
 La rete Bitcoin utilizza principalmente hash in combinazione con le firme digitali per proteggere l'integrità dei dati che fluiscono attraverso la rete utilizzando la crittografia a chiave pubblica. Gli hash sono inoltre utilizzati nel contesto del protocollo di consenso "Proof-of-Work". Bitcoin utilizza la crittografia a chiave pubblica, e più specificamente la crittografia a curva ellittica. Si prega di notare che le blockchain alternative e altri sistemi di contabilità distribuiti potrebbero utilizzare strumenti crittografici alternativi a quelli descritti di seguito. Alcune blockchain, per esempio, utilizzano una crittografia che preserva maggiormente la privacy, come "<span style="text-decoration:underline;">Zcash</span>" (basata su _Zero Knowledge Proof_)[^2] e "<span style="text-decoration:underline;">Monero</span>" (basata su _Ring Signatures _o_ Firme ad Anello_)[^3]. La stessa comunità Bitcoin sta attualmente cercando schemi alternativi di firma crittografica che siano più rispettosi della privacy e più scalabili, per esempio, con "Mimblewimble" (per approfondire: Parte 3 - I privacy token).
 
 ***
-![Symmetric Cryptography vs. Assymmetric Cryptography](https://github.com/Token-Economy-Book/SpanishTranslation/blob/main/graphics/06_Symmetric_Assymmetric_Cryptography.png)
+![Symmetric Cryptography vs. Assymmetric Cryptography](https://github.com/Token-Economy-Book/ItalianTranslation/blob/main/graphics/06_IT_Symmetric_Assymmetric_Cryptography.jpg)
 ***
 
 ## Crittografia a chiave pubblica
@@ -67,7 +67,7 @@ Quando viene lanciato per la prima volta, un wallet Bitcoin genera una coppia di
 Le firme digitali nella rete Bitcoin e in reti blockchain simili vengono eseguite utilizzando un wallet software. Simile a una firma scritta a mano, una firma digitale è usata per verificare che chi firma sia chi dice di essere. Se implementate correttamente, sono più difficili da falsificare rispetto alle firme scritte a mano. Le firme digitali sono in uso da decenni, soprattutto nel contesto di transazioni finanziarie, licenze software o software di gestione dei contratti. Nelle reti blockchain, le firme digitali sono utilizzate per l'autenticazione (prova della identità del mittente dei token) e l'integrità della transazione (cioè la quantità di token inviati). La chiave privata è usata per firmare le transazioni di token. La chiave pubblica è usata dai nodi validatori della rete per verificare la firma. In questo modo un wallet non può fingere di essere un altro wallet. Questo viene anche chiamato "non ripudio". In pratica, questo significa che una persona non può fingere di avere il controllo del nostro portafoglio, a meno che non abbia la nostra chiave privata. 
 
 ***
-![Generation of keys and addresses](https://github.com/Token-Economy-Book/SpanishTranslation/blob/main/graphics/04_GenerationKeysAdresses_Spanish.png)
+![Generation of keys and addresses](https://github.com/Token-Economy-Book/ItalianTranslation/blob/main/graphics/04_IT_GenerationKeysAdresses.jpg)
 ***
 
 
@@ -88,7 +88,7 @@ Al momento della scrittura di questo libro la maggior parte dei wallet permette 
 Le firme ad anello, le firme collettive e la "condivisione del segreto di Shamir"[^7] sono tutti esempi di algoritmi crittografici alternativi che devono essere abilitati dalle reti blockchain e supportati dal software del wallet per consentire la co-firma delle transazioni. Le co-firme sono una caratteristica importante che permette di trasferire la custodia dei token ad altri (una banca o un sito di exchange che gestiscono i token), la gestione collettiva dei beni (nei casi di proprietà collettiva di uno stesso bene o di gestione collettiva come nel caso di una DAO, Decentralized Autonomous Organization), o il recupero sociale delle chiavi. I successivi capitoli 3 e 4 approfondiranno gli aspetti della gestione dei token e dei casi d'uso dei token, dove il ruolo dei wallet diventerà più chiaro ed evidente.
 
 ***
-![DigitalSignatures BlockchainWallets](https://github.com/Token-Economy-Book/SpanishTranslation/blob/main/graphics/03_DigitalSignatures_BlockchainWallets_Spanish.png)
+![DigitalSignatures BlockchainWallets](https://github.com/Token-Economy-Book/ItalianTranslation/blob/main/graphics/03_IT_DigitalSignatures_BlockchainWallets.jpg)
 ***
 
 ## Invio di Token 
