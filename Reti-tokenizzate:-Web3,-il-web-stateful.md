@@ -11,9 +11,13 @@ In questo contesto, le reti blockchain sembrano essere una forza trainante dell�
 Mentre Web2 è stata una rivoluzione front-end, Web3 è una rivoluzione backend. Il Web3 reinventa il modo in cui Internet è cablato nel backend, combinando le funzioni di sistema di Internet con le funzioni di sistema dei computer. Tuttavia, per l'utente medio non cambierà molto sul front-end di Internet. Il Web3 rappresenta un insieme di protocolli, con i ledger distribuiti come spina dorsale. I dati sono gestiti in modo collaborativo da una rete di computer P2P. Le regole di gestione sono formalizzate nel protocollo e garantite dal consenso di maggioranza di tutti i partecipanti alla rete, che sono incentivati ​​con un token di rete per le loro attività. Il protocollo formalizza le regole di governance della rete e garantisce che le persone che non si conoscono o non si fidano l'una dell'altra raggiungano e concludano accordi sul Web. Mentre il tentativo di manipolare i dati su un server somiglia a un'irruzione in una casa, dove la sicurezza è garantita da una recinzione e un sistema di allarme, il Web3 è progettato in modo tale da dover entrare in più case contemporaneamente in tutto il mondo, ognuna dotata della propria recinzione e sistema di allarme. Questo è possibile ma proibitivo. 
 
 
-![alt_text](images/image1.jpg "image_tooltip")
+***
+![History of the Web](https://github.com/Token-Economy-Book/ItalianTranslation/blob/main/graphics/13_IT_HistroyOfWeb.jpg) 
+***
 
-![alt_text](images/image2.jpg "image_tooltip")
+***
+![Centralized vs. Distributed](https://github.com/Token-Economy-Book/ItalianTranslation/blob/main/graphics/10_IT_ClientServer_DataMon_DataDemocracy_CentralizedvsDistributed.jpg)
+***
 
 
 ## Blockchain: Un protocollo stateful [^1]
@@ -44,7 +48,9 @@ Una delle domande più urgenti della ricerca applicata quando si sviluppano tecn
 Sebbene le architetture decentralizzate siano più resilienti dei loro predecessori Web2 centralizzati, sono anche più lente. Velocità, prestazioni e usabilità sono colli di bottiglia nel Web3 che molto probabilmente verranno risolti nel tempo, una volta che i suoi componenti principali saranno attivi e funzionanti (per approfondire: Appendice - Soluzioni di scalabilità). È probabile che il futuro di Internet sarà più decentralizzato, tuttavia, questo non significa che ci sbarazzeremo del tutto dei sistemi centralizzati. I sistemi centralizzati presentano vantaggi e probabilmente prevarranno, almeno per casi d'uso specifici.
 
 
-![alt_text](images/image3.jpg "image_tooltip")
+***
+![Web2 vs. Web3 Applications](https://github.com/Token-Economy-Book/ItalianTranslation/blob/main/graphics/15_IT_Web2vsWeb3.jpg)
+***
 
 
 ## Applicazioni decentralizzate nel Web3
