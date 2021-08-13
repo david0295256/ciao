@@ -15,8 +15,9 @@ Il concetto di "catena di blocchi" è stato introdotto nel white paper di Bitcoi
 <span style="text-decoration:underline;">Token</span>: il termine "token" è semplicemente una metafora. Contrariamente a quanto potrebbe suggerire la metafora, un token non rappresenta un file digitale che viene inviato da un dispositivo all'altro. Si manifesta invece, come una voce nel ledger che appartiene a un indirizzo blockchain. Solo la persona che ha la chiave privata per quell'indirizzo può accedere ai rispettivi token, utilizzando un software wallet, che funge da client blockchain (per approfondire: Parte 1 - Sicurezza dei token, crittografia, wallet).
 
 
-
-![alt_text](images/image1.jpg "image_tooltip")
+***
+![Why is it called Blockchain](https://github.com/Token-Economy-Book/SpanishTranslation/blob/main/graphics/01_WhyIsItCalledBlockchain_Spanish.png)
+***
 
 
 <span style="text-decoration:underline;">A differenza dei database distribuiti</span>, in cui i dati sono distribuiti ma gestiti e controllati da una singola entità, le reti blockchain consentono il controllo distribuito. Diverse persone e istituzioni che non si fidano l'una dell'altra condividono le informazioni senza necessitare di un amministratore centrale.
@@ -28,9 +29,9 @@ Il concetto di "catena di blocchi" è stato introdotto nel white paper di Bitcoi
 <span style="text-decoration:underline;">Transazioni Bitcoin</span>: quando si utilizza la rete Bitcoin, invece di una banca che convalida le transazioni finanziarie, tutti i computer della rete controllano le loro copie del ledger per la validità della transazione e confermano collettivamente le transazioni con il consenso della maggioranza. Nessun utente è più affidabile degli altri. Invece di una singola terza parte fidata che convalida le transazioni tramite i propri server con autorità (voto singolo), una rete P2P di computer che eseguono il protocollo blockchain convalida le transazioni per consenso (voto a maggioranza).
 
  
-
-
-![alt_text](images/image2.jpg "image_tooltip")
+***
+![Like Spreadsheet Cloud & Behind The Blockchain Protocol](https://github.com/Token-Economy-Book/SpanishTranslation/blob/main/graphics/17_LikeSpreadsheetCloud_BehindTheBlockchainProtocol_Spanish.png)
+***
 
 
 Il protocollo è un insieme di regole e processi che definiscono come tutti i nodi (anonimi) della rete possono raggiungere un accordo sul reale stato della rete. Il protocollo definisce come i partecipanti alla rete interagiscono tra loro: (i) in quali condizioni è valido l'invio di token da A a B; (ii) i premi economici per la convalida delle transazioni con un token crittografico; (iii) come confermare le identità e firmare le transazioni; e (iv) chi prende decisioni sugli aggiornamenti di rete.
@@ -52,13 +53,17 @@ Il protocollo è un insieme di regole e processi che definiscono come tutti i no
 
 La sfida di fondo di una rete P2P con una serie di nodi di rete anonimi è: come trattare i nodi di rete dannosi in assenza di parti centralizzate che proteggono il sistema. Bisogna sempre presumere che ci saranno attori che cercheranno di interrompere qualsiasi rete aperta e pubblica. Come può una rete così distribuita raggiungere il consenso su quali dati sono corretti o non corretti, o quale processo è vero o falso in una configurazione così poco affidabile? Si parla di questo problema come del “Byzantine Generals Problem” (il “problema dei generali bizantini”). Un nodo dannoso, chiamato anche nodo bizantino, può inviare intenzionalmente informazioni errate a tutti gli altri nodi coinvolti nel processo di consenso. I guasti bizantini sono considerati la classe di guasti più difficile nelle reti distribuite. Per essere affidabili i meccanismi di consenso devono essere resilienti contro attacchi DDoS (Distributed Denial of Service, letteralmente “negazione del servizio”), attacchi sybil e altri attacchi informatici. Prima dell'emergere di Bitcoin, si credeva che fosse impossibile ottenere un consenso tollerante ai guasti e resistente agli attacchi tra i nodi non affidabili in una rete P2P.
 
+***
+![Why is it expensive to manipulate blockchain network transactions](https://github.com/Token-Economy-Book/SpanishTranslation/blob/main/graphics/02_WhyExpensiveToManipulateNetworktrans_Spanish.png)
+***
+
 Per la prima volta nella storia del calcolo distribuito, il protocollo Bitcoin ha introdotto una soluzione matematica a questo problema con l'introduzione del "Proof-of-Work", che ha reso il costo economico di attaccare il sistema sproporzionato rispetto al vantaggio di farlo. Ha dato vita a un nuovo campo della scienza intorno ai giochi di coordinamento economico utilizzando strumenti crittografici, noti anche come "Cryptoeconomics". La criptoeconomia può essere definita come lo studio dell'interazione economica in ambienti non affidabili, in cui ogni attore potrebbe essere potenzialmente corrotto. È interdisciplinare e richiede una profonda comprensione della crittografia, dell'economia e delle reti P2P e di ciò che motiva gli attori della rete. L'infrastruttura a chiave pubblica-privata garantisce un controllo dell’accesso ai propri token resistente agli attacchi. Le funzioni di hash consentono ai nodi di verificare le transazioni eseguite sulla rete. Sia le funzioni di hashing che la crittografia a chiave pubblica-privata sono necessarie anche per il gioco di coordinamento economico chiamato Proof-of-Work che premia i minatori per aver aggiunto blocchi di transazioni veritiere al ledger. I meccanismi criptoeconomici possono fornire un equilibrio di sicurezza per rendere la rete tollerante ai guasti e resistente agli attacchi e alla collusione. Ciò consente ai nodi di rete anonimi di raggiungere il consenso sullo stato di tutte le interazioni di rete. La rete Bitcoin è la prima istanza pratica di criptoeconomia. Produce "fiducia in base a funzioni matematiche" piuttosto che "fiducia per contratto legale".
 
 Tuttavia, la sicurezza dipende dalla resilienza delle ipotesi fatte su come gli attori della rete reagiranno agli incentivi economici. Il modo in cui le persone reagiscono agli incentivi è stato a lungo un campo di studio in economia. La criptoeconomia ha quindi molto in comune con la progettazione dei meccanismi, un campo dell'economia legato alla teoria dei giochi. La teoria dei giochi analizza le interazioni strategiche, che vengono chiamate giochi. Cerca di capire le migliori strategie per ogni giocatore se entrambi i giocatori massimizzano il miglior risultato per se stessi. Il design del meccanismo definisce i risultati desiderabili e lavora all'indietro per creare un gioco che incentivi i giocatori verso il risultato desiderato. Sebbene la criptoeconomia sia interdisciplinare, è una disciplina che è stata prevalentemente sviluppata nella comunità dell'informatica. Sembra che ci sia ancora molto spazio per incorporare metodi di varie discipline economiche e altre discipline (per approfondire si vedano il prossimo capitolo e la Parte 4 - Token purpose-driven).
 
-
-![alt_text](images/image3.jpg "image_tooltip")
-
+***
+![Why is the ledger tamper resistant?](https://github.com/Token-Economy-Book/SpanishTranslation/blob/main/graphics/14b_WhyIsLedgerTamperResistant_Spanish.png)
+***
 
 La "Proof-of-Work" (PoW) è il meccanismo di consenso utilizzato nella rete Bitcoin e in reti blockchain simili per garantire che una transazione tra token inviata sulla rete sia valida. Il meccanismo si basa sul presupposto che tutti i nodi di rete potrebbero essere potenzialmente danneggiati e che il minimo comune denominatore sia il denaro. Il Proof-of-Work è progettato in modo che (i) se spendi soldi e giochi secondo le regole, puoi guadagnare token di rete; (ii) barare non paga, perché il mining richiede hardware speciali e consuma grandi quantità di energia.
 
@@ -70,9 +75,9 @@ Trovare il valore hash corretto richiede un po' di lavoro, sotto forma di tempo 
 
 La “difficoltà” di trovare quel valore hash, e quindi di creare un blocco, si adegua nel tempo in modo da mantenere relativamente costante il tempo di interblock di 10 minuti. Viene regolato periodicamente in funzione di quanta potenza di hashing è stata distribuita dalla rete di miner. Se i blocchi vengono creati in meno di 10 minuti, la difficoltà aumenta. Allo stesso modo, se la creazione dei blocchi richiede più di 10 minuti, la difficoltà diminuisce. La difficoltà aumenta anche con il livello di concorrenza, il numero di altri computer in competizione per convalidare un blocco.
 
-
-
-![alt_text](images/image4.jpg "image_tooltip")
+***
+![How Blocks Of Transactions Are Chained](https://github.com/Token-Economy-Book/SpanishTranslation/blob/main/graphics/14a_HowBlocksOfTransactionsAreChained_Spanish.png)
+***
 
 ## Nodi di rete
 
@@ -89,12 +94,11 @@ I <span style="text-decoration:underline;">nodi leggeri</span> sono stati creati
 A differenza dei nodi di mining, i nodi completi non hanno un incentivo economico diretto per convalidare le transazioni. Tuttavia, esistono incentivi indiretti per eseguire un nodo completo invece di un nodo leggero. Nel possibile caso di un aggiornamento del protocollo, l'esecuzione di un nodo completo è l'unico modo per votare su come aggiornare la rete. Un altro motivo è il maggiore grado di privacy dei nodi completi, poiché tengono il registro completo e tutti i dati delle transazioni sul proprio dispositivo. I nodi leggeri, invece, funzionano in modo diverso poiché si basano su server di terze parti per trasmettere le transazioni alla rete, il che significa che quei server conoscono la cronologia delle transazioni del nodo leggero.
 
 
-#### Attacchi alla rete {#attacchi-alla-rete}
+## Attacchi alla rete 
 
 Tutti i movimenti del ledger sono di sola lettura. Una volta che un blocco di transazioni è stato accettato dalla rete, non può essere facilmente modificato o rimosso. Affinché ciò avvenga, tutti i blocchi dovrebbero essere ricalcolati, il che richiederebbe alla maggior parte dei partecipanti alla rete di concordare tali modifiche. Un utente malintenzionato dovrebbe ripetere il lavoro di calcolo di tutti i blocchi successivi, sulla maggior parte dei nodi di rete. Ciò richiederebbe il controllo o la corruzione della maggior parte dei nodi della rete. Anche se fosse possibile eseguire questi calcoli entro il periodo di creazione del blocco, il costo sarebbe molto più alto dei vantaggi per l'attacco alla rete. Sebbene la manipolazione sia possibile, il meccanismo è progettato per renderla irrealizzabile.
 
 Questi siti web forniscono informazioni in tempo reale su quanto costa attualmente attaccare diverse reti blockchain in un cosiddetto “attacco del 51%”. Una rete Proof-of-Work è sicura fintanto che oltre il 50% del lavoro viene svolto da minatori onesti. Un "attacco del 51%" si verifica quando una singola persona o istituzione è in grado di controllare la maggior parte dell’hash rate (velocità di elaborazione dei calcoli) o della potenza di calcolo per manipolare la rete. Nella storia decennale di Bitcoin, nessuna manipolazione da parte di aggressori esterni ha avuto successo. 
-
 
 
 * Strumento online per verificare quanto costerebbe attaccare la rete Bitcoin:  \
@@ -106,12 +110,9 @@ Se un attacco del 51% andasse a buon fine, potrebbe avere il seguente impatto: c
 
 Quello che un attacco del 51% non può fare è modificare transazioni esistenti o transazioni false, come: (i) modificare l'importo inviato in una transazione esistente; (ii) cambiare il destinatario di una transazione esistente; o (iii) inviare i token di qualcuno senza la sua approvazione. Questo perché tutte le transazioni devono essere firmate con la chiave privata del proprietario del token, che non può essere rivelata per accordo di maggioranza della rete. La modifica di un dettaglio in una transazione esistente renderebbe il ledger "illegittimo", poiché in esso sarebbe contenuta una transazione senza una firma valida. Questi tipi di manipolazioni possono essere raggiunti solo forzando le chiavi private di un attore di rete. In alternativa, si potrebbe anche rompere l'algoritmo crittografico (SHA) per attaccare la rete, motivo per cui è essenziale utilizzare algoritmi crittografici che siano stati adeguatamente sottoposti a stress test (per approfondire: Parte 1 - Sicurezza dei token, crittografia).
 
-
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image5.jpg "image_tooltip")
+***
+![Blockchain Concept](https://github.com/Token-Economy-Book/SpanishTranslation/blob/main/graphics/11_BlockchainConcept_Spanish.png)
+***
 
 ## Modifiche al protocollo (“forks”) & split della rete
 
@@ -145,7 +146,9 @@ Le reti pubbliche utilizzano meccanismi criptoeconomici (fiducia in base alla ma
 
 I protocolli Blockchain e simili ledger distribuiti operano su Internet e possono essere concettualizzati in diversi componenti: (i) rete fisica: rappresentata da una rete P2P di computer che eseguono lo stesso protocollo; (ii) protocollo: definisce le regole di rete e le applica per consenso di tutti i nodi di rete. Ciò include incentivi economici legati al token nativo; (iii) ledger: gestire tutti gli asset sotto forma di un registro pubblico e condiviso di tutte le transazioni dal blocco genesis fino ad oggi; (iv) identificazione e indirizzamento: le risorse appartengono a identità che devono essere indirizzate in modo da poter trasferire i valori dall'una all'altra. Queste identità possono essere più o meno anonime, a seconda dei tipi di algoritmi crittografici utilizzati; nel caso delle reti di smart contract come Ethereum, gli (v) smart contract gestiscono le relazioni degli attori coinvolti, e rappresentano la logica di business o di governance. 
 
-![alt_text](images/image6.jpg "image_tooltip")
+***
+![Public Ledgers vs. Private Ledgers](https://github.com/Token-Economy-Book/SpanishTranslation/blob/main/graphics/12_PublicPrivateLedgers_Spanish.png)
+***
 
 ## Meccanismi di consenso alternativi al PoW {#meccanismi-di-consenso-alternativi-al-pow}
 
@@ -173,8 +176,9 @@ Il <span style="text-decoration:underline;">Delegated Proof-of-Stake (DPoS)</spa
 
 Spiegare dettagliatamente ciascuno dei meccanismi di consenso sopra elencati va oltre lo scopo di questo libro e richiederebbe una o più pubblicazioni dedicate. La letteratura su questi protocolli nel contesto dei registri distribuiti è ancora scarsa ma in crescita. Tuttavia, molti di questi protocolli sono ancora in una fase concettuale, senza un'adeguata documentazione. In molti casi vengono implementati da un solo progetto, a volte senza essere adeguatamente studiati o senza aver subito il processo accademico di revisione tra pari.
 
-![alt_text](images/image7.jpg "image_tooltip")
-
+***
+![Public Ledgers vs. Private Ledgers](https://github.com/Token-Economy-Book/SpanishTranslation/blob/main/graphics/12_PublicPrivateLedgers_Spanish.png)
+***
 
 
 ### Con o senza token?
@@ -197,7 +201,7 @@ Inoltre, sebbene ad esempio un consenso basato sul PoS sia pubblico, non è del 
 Non è chiaro come si evolverà la tecnologia nel medio-lungo periodo. Alcuni prevedono che i registri autorizzati potrebbero subire la stessa sorte delle "Intranet" nei primi anni '90, quando le società private costruirono le proprie reti private, perché avevano paura di connettersi con l'Internet pubblica. Nel tempo, questa paura è scomparsa. Oggi, le Intranet vengono utilizzate in casi molto limitati in cui sono richiesti elevati livelli di sicurezza.
 
 
-#### Casi d’uso e applicazioni {#casi-d’uso-e-applicazioni}
+## Casi d’uso e applicazioni
 
 Le reti blockchain e i sistemi di registro distribuito derivati ​​forniscono un'infrastruttura per la gestione dei diritti. Ogni processo, attività e pagamento avrebbe una registrazione e una firma digitali che potrebbero essere identificate, convalidate, archiviate e condivise. Molti ruoli intermediari come avvocati, broker, banchieri e amministratori pubblici potrebbero essere sostituiti da sistemi di contabilità distribuita. Individui, organizzazioni, macchine e algoritmi possono ora interagire tra loro con poca difficoltà e una frazione degli attuali costi di transazione. Questa nuova infrastruttura consente molte nuove applicazioni, le più importanti delle quali sono:
 
