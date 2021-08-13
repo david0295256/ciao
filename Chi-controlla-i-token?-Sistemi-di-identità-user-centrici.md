@@ -53,7 +53,9 @@ Nel suo manifesto Allen ha delineato il delicato equilibrio tra il diritto alla 
 Nel corso degli anni i principi sopra menzionati hanno ispirato e sono stati inclusi  in una serie di iniziative e gruppi di lavoro sul tema della identità user-centrica, come "Social Linked Data", "Rebooting the Web of Trust", "WebIDs", e più recentemente il "W3C Working Group on Decentralized Identifiers (DIDs)". L'obiettivo di tutte queste iniziative è stato quello di definire standard aperti internazionali che disaccoppiano il processo di emissione di una credenziale e di identificazione di un diritto da quello della loro verifica da parte di un insieme di attori, rimuovendo molti dei problemi che una soluzione server-centrica deve affrontare.
 
 
-![alt_text](images/image1.jpg "image_tooltip")
+***
+![History of Identities](https://github.com/Token-Economy-Book/ItalianTranslation/blob/main/graphics/30_IT_HistoryOfIdentities.jpg) 
+***
 
 
 ## Identità User-Centriche basate su DID 
@@ -73,7 +75,9 @@ Il wallet è l'equivalente digitale di un portafoglio fisico, che - oltre a cons
 > <span style="text-decoration:underline;">Verificatori di identità:</span> terze parti che forniscono servizi previa verifica di alcune informazioni relative all'identità. Per esempio, se c'è un limite di età per comprare alcolici, o per guardare un film, il verificatore di identità (il negozio o il cinema) può convalidare la firma del governo che ha rilasciato e certificato questa credenziale. 
 
 
-![alt_text](images/image2.jpg "image_tooltip")
+***
+![User-Centric Identities](https://github.com/Token-Economy-Book/ItalianTranslation/blob/main/graphics/29_IT_UserCentricIdentities.jpg) 
+***
 
 
 Le credenziali sono firmate dai loro emittenti utilizzando la crittografia a chiave pubblica. Una volta firmate da un emittente, le credenziali possono essere gestite dal proprietario dell'identità per presentare rivendicazioni semplicemente utilizzando il loro wallet . I proprietari di identità usano il loro wallet per rivelare quali dati vogliono condividere con il mondo esterno. Possono decidere e controllare non solo con chi vogliono condividere i loro dati, ma anche quando condividerli. Per fare questo, hanno bisogno di dichiarare alla rete il loro consenso a condividere i dati selezionati con le istituzioni autorizzate. 
