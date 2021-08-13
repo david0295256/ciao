@@ -10,8 +10,9 @@ Sebbene il concetto di smart contract non sia nuovo, le reti blockchain sembrano
 Uno smart contract è un accordo auto-esecutivo, formalizzato come una applicazione software. Il codice contiene una serie di regole in base alle quali le parti di quel contratto accettano di interagire tra loro. Se e quando le regole predefinite sono soddisfatte, l'accordo viene automaticamente applicato dal consenso della maggioranza della rete blockchain. Gli smart contract forniscono meccanismi per gestire in modo efficiente i beni _tokenizzati _e i diritti di accesso tra due o più parti. Si può pensare ad essi come ad una scatola crittografica che sblocca il valore o l'accesso se e quando specifiche condizioni predefinite sono verificate. Gli smart contract offrono quindi un modo pubblico e verificabile per incorporare le regole di governance e la logica di business in poche righe di codice, che possono essere controllate e applicate dal consenso della maggioranza di una rete P2P.
 
 
-![alt_text](images/image1.jpg "image_tooltip")
-
+***
+![Smart Contracts](https://github.com/Token-Economy-Book/ItalianTranslation/blob/main/graphics/05_IT_SmartContracts.jpg) 
+***
 
 Uno smart contract può essere invocato da entità interne (altri smart contract) o esterne (fonti di dati esterne) di una rete blockchain. I connettori di dati esterni, i cosiddetti "oracoli", iniettano dati rilevanti per lo smart contract prelevandoli dal mondo off-chain. Essi possono tener traccia delle prestazioni dell'accordo in tempo reale e possono quindi risparmiare costi, poiché la conformità e il controllo avvengono al volo. Gli smart contract riducono i costi di transazione degli accordi. In particolare, riducono i costi di (i) raggiungimento dell’accordo, (ii) formalizzazione, e (iii) applicazione. Se implementati correttamente, gli smart contract potrebbero fornire una sicurezza delle transazioni superiore al diritto contrattuale tradizionale, riducendo così i costi di coordinamento della revisione e dell'applicazione di tali accordi. I contratti intelligenti aggirano anche il dilemma principale-agente[^1] delle organizzazioni, fornendo più trasparenza e responsabilità, e riducendo la burocrazia (per approfondire: Parte 2 - Economia istituzionale delle DAO).
 
@@ -66,15 +67,12 @@ Se due persone, diciamo Alice e Bob, non si conoscono e non si fidano l'uno dell
 * Se la rete verifica che entrambe le condizioni sono soddisfatte - Alice ha abbastanza fondi e Bob è davvero il proprietario dell'aut -, la rete blockchain registra Alice come nuovo proprietario dell'auto e i loro saldi vengono automaticamente aggiornati: Bob ora ha 20.000 token in più sul suo conto, mentre Alice ne ha 20.000 in meno nel suo wallet. Alice riceve quindi un codice di accesso alla serratura intelligente del garage. Inoltre, Alice è ora registrata presso la compagnia di assicurazione di sua scelta, che ha selezionato al momento dell'acquisto dell'auto, innescando un altro contratto intelligente.
 * Bob può ora parcheggiare la sua auto nel garage. La sua auto, che ha anche un'identità unica sulla blockchain, sarà ora registrata come parcheggiata nel garage, e Alice riceverà una notifica su dove ritirare l'auto con il suo codice di accesso.
 * Alice può ora recarsi a ritirare l'auto presso il garage specificato, che è protetto da una serratura intelligente collegata alla blockchain e gestita dal contratto intelligente che sia Bob che Alice usano. Alice può sbloccare il garage con la sua chiave privata, che la identifica come il legittimo proprietario dell'auto. L'auto è sua, è registrata a suo nome ed è assicurata.
-
     
-
-![alt_text](images/image2.jpg "image_tooltip")
-
-
-![alt_text](images/image3.jpg "image_tooltip")
-
-
+***
+![Buying a second hand car in the Web2](https://github.com/Token-Economy-Book/ItalianTranslation/blob/main/graphics/07_IT_BuyingCarWeb2.jpg) 
+***
+![Buying a second hand car in the Web3](https://github.com/Token-Economy-Book/ItalianTranslation/blob/main/graphics/08_IT_BuyingCarWeb3.jpg) 
+***
 
 Utilizzando gli smart contract possiamo evitare l'interferenza di alcune istituzioni come le autorità automobilistiche, le compagnie di assicurazione, e in alcuni paesi, anche i notai, nei casi in cui gli ambienti normativi lo permettono. Ogni computer che esegue il protocollo blockchain sarà in grado di controllare se qualcuno è il legittimo proprietario di un'auto o no. Rubare auto non sarà così facile come oggi, se le auto saranno dotate di chiavi digitali che utilizzano smart contract per il controllo degli accessi. Alcuni processi automatizzati richiederanno anche la convergenza degli smart contract con i dati provenienti da software e dispositivi hardware esterni, come ad esempio immagini fotografiche scattate nel garage per monitorare lo stato dell'auto. Il proprietario dell'auto potrebbe inoltre utilizzare uno smart contract per autorizzare altre persone a guidarla, previa registrazione della loro identità blockchain presso lo smart contract della vettura. 
 
