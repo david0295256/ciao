@@ -6,10 +6,9 @@ Prima di lanciare una vendita di token, gli sviluppatori presentavano un cosidde
 
 È importante sottolineare che la blockchain Bitcoin non ha mai effettuato una vendita di token, e che i token Bitcoin sono continuamente coniati ogni volta che viene creato un blocco di transazioni (per approfondire: Parte 1 - Bitcoin, blockchain & altri DLT, Parte 4 - I token purpose-driven). Al contrario dei token nativi di blockchain che sono emessi tramite Proof-of-Work, e incentivano i contributi individuali alla rete per mantenerla sicura, le vendite di token introducono un meccanismo statico per l'emissione di token contro un compenso finanziario diretto, prima che il progetto diventi operativo. I token sarebbero creati solo una volta, prima del lancio del progetto, ed emessi agli investitori. In una tale configurazione, una certa porzione della fornitura di token, o l'intera fornitura di questi, viene rilasciata prima del lancio di un progetto, in molti casi anche prima che venga scritto qualsiasi codice.
 
-
-
-![alt_text](images/image1.jpg "image_tooltip")
-
+***
+![P2P Token Sales](https://github.com/Token-Economy-Book/ItalianTranslation/blob/main/graphics/20_IT_P2PToken%20Sales.jpg)
+***
 
 
 ## Storia delle vendite di token
@@ -32,10 +31,9 @@ Indipendentemente dagli attuali sentimenti del mercato, le vendite di token sono
 
 Man mano che i mercati si sono consolidati e i regolatori si sono messi al passo, le vendite di token hanno iniziato a differenziare i tipi di token emessi. Le offerte di security token (token di sicurezza o STO) sono offerte di token che emettono token classificati alla stregua di titoli. I token di sicurezza sono una nuova ed interessante classe di token che offre una logica di business incorporata conforme ai requisiti normativi come il Know Your Customer (KYC) e l'Anti-Money Laundering (AML). La capacità di frazionare facilmente la proprietà di un token di sicurezza permette nuovi livelli di investimenti in titoli frammentati, che permetteranno nuovi e più personalizzati tipi di asset e derivati. Qualsiasi investitore retail potrebbe detenere un portafoglio di investimenti qualitativi, che fino ad ora sono stati accessibili solo alle società di private equity. Gli organismi di regolamentazione di molti paesi hanno già fatto dichiarazioni o approvato regolamenti, e molti altri paesi stanno facendo altrettanto. Inoltre, una serie di fornitori di servizi specializzati in token di sicurezza sta emergendo, dagli avvocati ai consulenti di investimento, assicuratori e depositari. Una regolamentazione esplicita dei token di sicurezza può fornire più certezza non solo per gli investitori (protezione degli investitori) ma anche per gli imprenditori, che per molto tempo hanno avuto a che fare con conti bancari congelati e la paura di cause legali, per via dell'incertezza relativa al fatto che il loro progetto o token violasse o meno qualche tipo di regolamentazione (per approfondire: Parte 4 - Asset token & Proprietà frazionata).
 
-
-![alt_text](images/image2.jpg "image_tooltip")
-
-
+***
+![History of Token Sales](https://github.com/Token-Economy-Book/ItalianTranslation/blob/main/graphics/25_IT_HistoryOfTokens.jpg)
+***
 
 ## Tipi di vendite di token
 
