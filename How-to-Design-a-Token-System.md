@@ -12,7 +12,9 @@ Mentre la comunità della "ingegneria dei token" sottolinea la necessità di pra
 
 Sembra esserci una crescente comprensione della necessità di usare il termine "ingegneria" in senso più ampio quando si progetta un sistema di token. Il Web3 con i suoi ledger distribuiti e i suoi smart contract fornisce uno strato di governance e uno strato economico per Internet. Se qualcosa va storto, il danno collaterale è alto, come abbiamo visto con gli exploit "TheDAO" del 2016 o l'exploit del contratto multisignature "Parity" del 2017 che ha portato a milioni di euro prosciugati da uno o più smart contract, o i più recenti DeFi Hacks del 2020. Suggerisco quindi di distinguere esplicitamente tra gli aspetti di "ingegneria tecnica", "ingegneria legale", "ingegneria economica" e "ingegneria etica" di un token. 
 
-![alt_text](images/image1.jpg "image_tooltip")
+***
+![Token Engineering](https://github.com/Token-Economy-Book/ItalianTranslation/blob/main/graphics/28_IT_TokenEngineering.jpg)
+***
 
 ## Ingegneria Tecnica
 
@@ -32,7 +34,9 @@ I "Token di Applicazione" sono gestiti da un ledger distribuito sottostante e al
 
 **<span style="text-decoration:underline;">Standard</span>**: Il processo di ingegneria tecnica può scegliere da una lista crescente di smart contract standardizzati dedicati ai token. Gli standard di token utilizzati dipendono dalle proprietà che un token deve avere (privacy, fungibilità, trasferibilità, data di scadenza), e le proprietà dipendono dallo scopo ("purpose") del token, tenendo conto di tutti i vincoli economici, legali o etici.
 
-![alt_text](images/image2.jpg "image_tooltip")
+***
+![Token Engineering Aspects](https://github.com/Token-Economy-Book/ItalianTranslation/blob/main/graphics/27_IT_TokenEngineeringAspects.jpg)
+***
 
 
 ## Ingegneria Legale 
