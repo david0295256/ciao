@@ -18,7 +18,9 @@ I token sono temporaneamente bloccati come meccanismo di sicurezza nel caso si m
 
 Supponiamo che Alice abbia 200 ETH e Bob abbia 100 ETH. In un certo periodo di tempo, Alice invia dieci pagamenti di 10 ETH e Bob invia ad Alice due pagamenti di 25 ETH. Se tutte le transazioni fossero regolate direttamente sulla rete Ethereum, i nodi della rete registrerebbero dodici transazioni individuali. Non solo questo farebbe aumentare il numero di transazioni e rallenterebbe quindi la rete, ma sarebbe anche più costoso sia per Alice che per Bob, poiché ogni singola transazione incorrerebbe in una fee di transazione. Usando un canale di stato per regolare tali transazioni bilaterali, solo il saldo di tutte le transazioni deve essere scritto direttamente sulla blockchain una volta passato il tempo predefinito. Questo significa che solo due transazioni saranno registrate dalla rete: le transazioni di apertura e chiusura del canale.
 
-![alt_text](images/image1.jpg "image_tooltip")
+***
+![State Channels](https://github.com/Token-Economy-Book/ItalianTranslation/blob/main/graphics/18a_IT_StateChannel.jpg)
+***
 
 Mantenere le transazioni off-chain (fuori dalla catena) ed esclusivamente tra entrambe le parti non è solo più economico e veloce, ma anche più rispettoso della privacy. Tutto avviene all'interno di un canale, piuttosto che essere trasmesso pubblicamente su tutta la rete. Le uniche transazioni che sono registrate sulla catena e visibili al pubblico sono quelle di apertura e chiusura. Il lato negativo di questo processo è che i canali di stato hanno bisogno della piena disponibilità di tutti i partecipanti coinvolti. Altrimenti, se la chiusura finale del canale, e quindi la presentazione finale dello stato, dovesse essere presentata da un attore malevolo, i token potrebbero essere a rischio. Per contestare gli attacchi malevoli i token bloccati possono essere trattenuti dal contratto intelligente per penalizzare l'attaccante. Questo richiede un monitoraggio e potrebbe essere esternalizzato a terzi, i cosiddetti "contratti giudice", in cambio di una fee. I canali di stato sono quindi utili solo nei casi in cui i partecipanti si scambiano molti aggiornamenti di stato per un lungo periodo di tempo, per mitigare il costo iniziale della creazione di un canale e della distribuzione di un contratto giudice.
 
@@ -31,7 +33,9 @@ Le sidechains sono reti blockchain separate, compatibili con la mainchain. Le si
 
 A differenza dei canali di stato, le transazioni che avvengono su una sidechain non sono private tra i partecipanti di una transazione. Sono pubblicate sulla rete sidechain e quindi visibili a chiunque abbia accesso al ledger. Alice e Bob non devono essere sempre disponibili, e non ci sono costi amministrativi extra per aggiungere o rimuovere partecipanti. Creare una sidechain, tuttavia, è molto costoso in quanto comporta la costruzione di un'intera infrastruttura da zero.
 
-![alt_text](images/image2.jpg "image_tooltip")
+***
+![Sidechains](https://github.com/Token-Economy-Book/SpanishTranslation/blob/main/graphics/18b_Sidechains_Spanish.png)
+***
 
 La sidechain interagisce con il livello di calcolo sulla mainchain e richiede che i token siano bloccati per facilitare le controversie. Un gruppo di server (federazione) media tra una mainchain e le sue sidechain e determina quando i token che un utente ha usato vengono bloccati e rilasciati. Questo aggiunge un altro livello di sicurezza tra la mainchain e la sidechain. La federazione è scelta dagli sviluppatori della sidechain. Tuttavia, tale federazione aggiunge un altro livello tra la mainchain e la sidechain e potrebbe introdurre ulteriori vettori di attacco. Ecco un elenco selezionato di soluzioni sidechain per varie reti blockchain con diversi gradi di maturità e successo: "Bitcoin Codex," "Bitcoin Extended", “[Elements Projects](https://elementsproject.org/)”, “[Hivemind](http://bitcoinhivemind.com)”, “[Loom](https://loomx.io/)”, “[Liquid](https://blockstream.com/liquid/)”, “[Mimblewimble](https://github.com/mimblewimble/grin)”, “[Plasma](https://plasma.io/)”, “[Poa Network](https://poa.network/)”, o “[Rootstock](https://www.rsk.co/).” 
 
