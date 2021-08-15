@@ -26,10 +26,9 @@ Gli swap atomici richiedono che (i) entrambe le parti dello swap devono scaricar
 
 Mentre gli swap atomici permettono lo scambio P2P di token, non risolvono il problema della coincidenza dei desideri. Saranno utili solo alle persone che conoscono altre persone disposte a comprare l'esatta quantità di token che uno vuole vendere precisamente nello stesso momento in cui si desidera venderli. La probabilità che questo accada per gli investitori retail è piuttosto bassa. Gli exchange decentralizzati che utilizzano swap atomici, tuttavia, potrebbero risolvere entrambi i problemi.
 
-
-
-![alt_text](images/image1.jpg "image_tooltip")
-
+***
+![Atomic Swaps](https://github.com/Token-Economy-Book/ItalianTranslation/blob/main/graphics/24_IT_AtomicSwaps.jpg)
+***
 
 
 ## Exchange decentralizzati
