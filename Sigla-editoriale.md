@@ -1,15 +1,13 @@
-Token Economy: How the Web3 reinvents the Internet
-Second edition, June 2020.
-The first edition was published by BlokchcianHub Berli  in June 2019 under the title “Token Economy: How Blockchain & Smart contracts revolutionize the Economy” and had two amended editions.
+“Token Economy” Come Internet è stato reinventato dal Web. Tradotto da “Token Economy: How the Web3 reinvents the Internet,” Seconda edizione, Giugno 2020. La prima edizione è stata pubblicata da BlockchchianHub Berlin nel giugno 2019 con il titolo "Token Economy: How Blockchain & Smart Contracts revolutionize the Economy" e ha avuto due edizioni modificate.
 
-* Author: Shermin Voshmgir 
-* Publisher:Token Kitchen 
+* Autrice: Shermin Voshmgir 
+* Publisher: Token Kitchen 
 * Alte Schönhauserstrasse 9, 10119 Berlin 
 * http://token.kitchen
 * Design: Justyna Zubrycka 
-* Production: Caroline Helbing
-* Copy edit: Paisley Prophet
-* Cover design:  Carmen Fuchs
-* Ebook layout:  Shermin Voshmgir 
+* Produttrice: Caroline Helbing
+* Layout dell'ebook:  Shermin Voshmgir 
+* Traduttori: Edoardo Calia, Elisa Bonaldo, Roberto Moncada, Antonio Andreottola
 
-Copyleft 2020, Shermin Voshmgir: Creative Commons - CC BY-NC-SA: This license allows reusers to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator. If you remix, adapt, or build upon the material, you must license the modified material under identical terms. For commercial permissions contact:  hello@token.kitchen
+Copyleft 2020, Shermin Voshmgir: Creative Commons - CC BY-NC-SA: Questa licenza consente ai riutilizzatori di distribuire, remixare, adattare e sviluppare il materiale in qualsiasi mezzo o formato solo per scopi non commerciali e solo a condizione che l'attribuzione sia data al creatore. Se remixi, adatti o sviluppi il materiale, devi concedere in licenza il materiale modificato alle stesse condizioni. Per le autorizzazioni commerciali contattare: hello@token.kitchen
+
